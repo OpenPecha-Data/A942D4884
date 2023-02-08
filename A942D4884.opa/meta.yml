@@ -1,0 +1,24 @@
+id: A942D4884
+title: 'Aśvaghoṣa: Buddhacarita'
+type: translation
+pechas:
+- I653A9584
+- IA338A430
+- IF60B479F
+- IE5B2FCEE
+- I67BB6796
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 16:11:43.882255
+  last_modified_at: 2023-02-08 16:11:43.882268
+alignment_to_base:
+  I653A9584/9484: 7EEC
+  IA338A430/4782: 7EEC
+  IF60B479F/866B: 7EEC
+  IE5B2FCEE/99E0: 7EEC
+  I67BB6796/929B: 7EEC
